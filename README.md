@@ -1,4 +1,4 @@
-````markdown
+
 # 📊 Expectation Decider – Mathematics & Advanced Statistics
 
 > A practical probability and statistics project based on student academic data.
@@ -572,10 +572,6 @@ P(Pass|H) ≈ 77.78%
 
 ---
 
-# 💻 Python Implementation
-
-The project uses Python for data analysis.
-
 ### Main Libraries
 
 ```python
@@ -711,21 +707,4 @@ This project contains:
 
 **Expectation Decider – Mathematics & Advanced Statistics**
 
-### Focus Areas
-
-`Probability` • `Statistics` • `Python` • `Pandas` • `Data Analysis`
-
----
-
-## ⭐ Conclusion
-
-The **Expectation Decider** project demonstrates how probability and statistical concepts can be applied to a student dataset.
-
-Starting from basic probability and moving toward advanced concepts such as **conditional probability and Bayes Theorem**, the project provides a practical understanding of how mathematical statistics can be used for data analysis and interpretation.
-
----
-
-> **“Turning data into probability, and probability into meaningful insights.”**
-
-```
 ```
