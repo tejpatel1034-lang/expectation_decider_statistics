@@ -21,6 +21,9 @@ The main purpose of this project is to understand how probability and statistica
 
 ---
 
+## Presentation Video Link 
+**https://drive.google.com/file/d/1-SraHn00B6Gro1m2SGozcfXncwSkjxnJ/view?usp=sharing**
+
 ## 🎯 Objectives
 
 The main objectives of this project are:
@@ -706,5 +709,8 @@ This project contains:
 ### Project
 
 **Expectation Decider – Mathematics & Advanced Statistics**
+
+### Presentation Video Link 
+**https://drive.google.com/file/d/1-SraHn00B6Gro1m2SGozcfXncwSkjxnJ/view?usp=sharing**
 
 ```
